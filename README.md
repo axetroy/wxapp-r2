@@ -36,7 +36,9 @@ async function main(){
 ## Related
 
 [wxapp-fetch](https://github.com/axetroy/wxapp-fetch) fetch API implement for WeCHat App
+
 [wxapp-fetch](https://github.com/axetroy/wxapp-http) 微信小程序的http模块，Tiny but Powerful
+
 [wxapp-fetch](https://github.com/axetroy/wxapp-XMLHttpRequest) Web XMLHttpRequest implement for WeChat APP
 
 ## Contributing
