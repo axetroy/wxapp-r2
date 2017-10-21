@@ -15,7 +15,8 @@
     "wxapp",
     "http",
     "wx",
-    "request"
+    "request",
+    "r2"
   ],
   "repository": {
     "type": "git",
