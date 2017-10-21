@@ -1,0 +1,40 @@
+{
+  "name": "wxapp-r2",
+  "version": "0.0.1",
+  "description": "Http module for WeChat APP",
+  "main": "./dist/wxapp-r2.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "ava",
+    "build": "webpack --display-error-details --progress --colors",
+    "start": "webpack --display-error-details --progress --colors --watch",
+    "generate": "all-contributors generate",
+    "deploy": "gh-pages -d ./dist"
+  },
+  "keywords": [
+    "wxapp",
+    "http",
+    "wx",
+    "request"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axetroy/wxapp-r2.git"
+  },
+  "author": "Axetroy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axetroy/wxapp-r2/issues"
+  },
+  "homepage": "https://github.com/axetroy/wxapp-r2#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.46",
+    "all-contributors-cli": "^4.5.1",
+    "ava": "^0.22.0",
+    "gh-pages": "^1.0.0",
+    "ts-loader": "^3.0.5",
+    "typescript": "^2.5.3",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {}
+}
