@@ -29,13 +29,13 @@
   },
   "homepage": "https://github.com/axetroy/wxapp-r2#readme",
   "devDependencies": {
-    "@types/node": "^9.3.0",
-    "all-contributors-cli": "^4.5.1",
-    "ava": "^0.25.0",
-    "gh-pages": "^1.0.0",
-    "ts-loader": "^3.0.5",
-    "typescript": "^2.5.3",
-    "webpack": "^3.8.1"
+    "@types/node": "^11.13.0",
+    "all-contributors-cli": "^6.2.0",
+    "ava": "^1.4.1",
+    "gh-pages": "^2.0.1",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.4.2",
+    "webpack": "^4.29.6"
   },
   "dependencies": {}
 }
